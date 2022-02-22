@@ -1,4 +1,4 @@
 # This program prints Hello, world!
 
 
-print('Hello Plot 4')
+print('Hello Plot 6')
