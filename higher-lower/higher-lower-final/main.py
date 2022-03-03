@@ -1,6 +1,6 @@
 from game_data import data
-import random
 from art import logo, vs
+import random
 import os
 
 def cls():
