@@ -2023,9 +2023,19 @@
         "diagramType": "STRIDE",
         "id": 0,
         "placeholder": "New STRIDE diagram description"
+      },
+      {
+        "id": 1,
+        "title": "New CIA diagram",
+        "diagramType": "CIA",
+        "placeholder": "New CIA diagram description",
+        "thumbnail": "./public/content/images/thumbnail.cia.jpg",
+        "version": "2.6.2",
+        "cells": [],
+        "description": "CIA TEST"
       }
     ],
-    "diagramTop": 1,
+    "diagramTop": 2,
     "reviewer": "Jane Smith",
     "threatTop": 0
   },
